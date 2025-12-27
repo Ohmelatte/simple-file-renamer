@@ -11,3 +11,5 @@ Simple file renamer built using [iced](https://github.com/iced-rs/iced)&ensp;<im
 
 
 ## Demo
+
+![Demo](https://github.com/user-attachments/assets/28221518-0db4-4789-871c-f07957dd6560)
